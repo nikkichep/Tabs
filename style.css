@@ -28,6 +28,10 @@ h3{
     cursor: pointer;
     font-weight: 600;
 }
+.tab-content{
+    background-color: #ffffff;
+    padding: 50px 40px;
+}
 .tab-content h4{
     font-size: 28px;
     margin-bottom: 20px;
