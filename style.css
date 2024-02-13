@@ -28,3 +28,15 @@ h3{
     cursor: pointer;
     font-weight: 600;
 }
+.tab-content{
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #000224;
+    font-weight: 600;
+}
+.tab-content{
+    text-align: justify;
+    line-height: 1.9;
+    letter-spacing: 0.4px;
+    color: #2022;
+}
